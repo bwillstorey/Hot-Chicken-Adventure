@@ -39,9 +39,7 @@ npm i
 
 The application is hosted through heroku and is available at the below link.
 
-```bash
 https://mysterious-scrubland-71212.herokuapp.com/
-```
 
 ## Project Technical Specs
 Nashville Hot Chicken Adventure is an express and node served application that is hosted on heroku with a jawsdb database.  The application utilizes passport js and bcrypt to authenticate users.  Additionally, Sequelize models are used to access the jawsdb (mysql locally).
