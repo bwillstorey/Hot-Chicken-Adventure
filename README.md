@@ -4,6 +4,8 @@ Nashville Hot Chicken Adventure is an interactive web application allowing users
 
 ![Home](./public/images/home.gif)
 
+![Home](./public/images/home.gif)
+
 ## Installation
 
 If you are cloning/downloading the GitHub repo, please be sure to use the package manager [NPM](https://www.npmjs.com/) to install the needed packages for the project to run through node and express:
