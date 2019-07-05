@@ -47,7 +47,7 @@ Nashville Hot Chicken Adventure is an express and node served application that i
 ![Tech](./public/images/tech.png)
 
 ## Contributors
-Denise Martin: Lead Front-End Designer
-Brian Storey:  Google Map API developer
-John Westbrooks:  Authentication, routing, database schema developer
-Rob Suttles:  Database seeding, routing, and front-end developer
+Denise Martin: Lead Front-End Designer \
+Brian Storey:  Google Map API developer \
+John Westbrooks:  Authentication, routing, database schema developer \
+Rob Suttles:  Database seeding, routing, and front-end developer 
